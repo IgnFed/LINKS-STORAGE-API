@@ -1,6 +1,6 @@
 # LINKS STORAGE API
 
-### Api to [ GET, POST, PUT, DELETE ] links with [NodeJS](http://www.nodejs.org) and [mongoDB](https://www.mongodb.com) [mongoose](https://mongoosejs.com/)
+### Api to [ GET, POST, PUT, DELETE ] links with [NodeJS](http://www.nodejs.org) and [mongoDB](https://www.mongodb.com) ([mongoose](https://mongoosejs.com/))
 
 If you want to use it, you need:
 
